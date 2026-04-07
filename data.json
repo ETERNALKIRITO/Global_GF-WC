@@ -1,136 +1,483 @@
 {
-"weirdClock": {
+  "weirdClock": {
     "hoverTexts": [
-        "Time is a construct.", "Definitely correct.", "It's... a time.", "Don't question it.",
-        "Quantum fluctuator online.", "Time... ish.", "Time is an illusion.", 
-        "ERR: CLOCK_DRIFT_EXCEEDED", "It's Hammer Time!", "Ceti Alpha V Time Zone", 
-        "Time flies like an arrow; fruit flies like a banana.", "SYNCHRONIZING...", 
-        "Definitely the correct time.", "Timey-Wimey Detector Reading: Normal", "🕰️🔥",
-        "Wait, what year is this?", "Lunchtime doubly so.", "404: SECOND_HAND_NOT_FOUND",
-        "Technically, it's yesterday somewhere.", "The hamsters are tired.", 
-        "Currently: 12:00 (Maybe).", "Does anybody really know what time it is?",
-        "Time is a flat circle. And this circle is buffering.", "Calculated in Dog Years.",
-        "System clock powered by pure vibes.", "Objects in mirror are closer than they appear.",
-        "Beep. Boop. Chronology is hard.", "Don't blink.", "The sun is a lie.",
-        "Adjusting for relativity... please hold.", "If you're reading this, you're late.",
-        "Entropy: 1, Clock: 0.", "Your biological clock is ticking. Loudly.",
-        "I'm late! I'm late! For a very important update!", "Stuck in a localized time loop.",
-        "Stuck in a localized time loop.", "Stuck in a localized time loop.",
-        "Grandfather clock.v2 (Beta)", "Are we there yet?", "1.21 Gigawatts required.",
-        "Time is money. Please insert 25 cents.", "Everything is fine. 🫠"
+      "Time is a construct.", "Definitely correct.", "It's... a time.", "Don't question it.",
+      "Quantum fluctuator online.", "Time... ish.", "Time is an illusion.", 
+      "ERR: CLOCK_DRIFT_EXCEEDED", "It's Hammer Time!", "Ceti Alpha V Time Zone", 
+      "Time flies like an arrow; fruit flies like a banana.", "SYNCHRONIZING...", 
+      "Definitely the correct time.", "Timey-Wimey Detector Reading: Normal", "🕰️🔥",
+      "Wait, what year is this?", "Lunchtime doubly so.", "404: SECOND_HAND_NOT_FOUND",
+      "Technically, it's yesterday somewhere.", "The hamsters are tired.", 
+      "Currently: 12:00 (Maybe).", "Does anybody really know what time it is?",
+      "Time is a flat circle. And this circle is buffering.", "Calculated in Dog Years.",
+      "System clock powered by pure vibes.", "Objects in mirror are closer than they appear.",
+      "Beep. Boop. Chronology is hard.", "Don't blink.", "The sun is a lie.",
+      "Adjusting for relativity... please hold.", "If you're reading this, you're late.",
+      "Entropy: 1, Clock: 0.", "Your biological clock is ticking. Loudly.",
+      "I'm late! I'm late! For a very important update!", "Stuck in a localized time loop.",
+      "Stuck in a localized time loop.", "Stuck in a localized time loop.",
+      "Grandfather clock.v2 (Beta)", "Are we there yet?", "1.21 Gigawatts required.",
+      "Time is money. Please insert 25 cents.", "Everything is fine. 🫠"
     ]
   },
-"gifCycler": {
-  "urls":[
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Schneemann.gif",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/8ball.gif",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/AstroFuck.gif",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Bluien.gif",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/CarniftDaCarinicious.gif",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Counta.gif",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/eduwin.gif",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/him.gif",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/housiez.gif",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Juggler.gif",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/webamp.gif",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/whitespace-up7.gif",    
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/THEONEANDONLYWEIRDCLOCK.gif?updatedAt=1774384066974",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/OkiePokeVibe.gif",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/grass.gif?updatedAt=1769521245846",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/PBJT-BANANA.gif?updatedAt=1773393143141",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Cool-Screenie-Thingy.gif?updatedAt=1773393553650",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Example-1.gif?updatedAt=1768822007880",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Example-2.gif?updatedAt=1768822151517",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Example-3.gif?updatedAt=1768822176121",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/expected-da-unexpected-jar.gif?updatedAt=1773393526607",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/SKEL.gif?updatedAt=1773393849005",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Triapoiez-Person.gif?updatedAt=1773393490967",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/UNDEF-GUMBAER-4.gif?updatedAt=1773395525845",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/WOAHAGOLDENIDO-GYATDAMNNVM.gif?updatedAt=1773393893997",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/pixelated-blugenerated-mELOn-chan.gif?updatedAt=1773393947870",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/fischzza.gif?updatedAt=1773393981611",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/ShardOfGrapesidian.gif?updatedAt=1773395593285",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/adolphhi-.gif?updatedAt=1773393997346",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/UNDEF-GUMBAER-1.gif?updatedAt=1773394050058",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/NoThing-GUMBAER.gif?updatedAt=1773394068027",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/bored.gif?updatedAt=1747862011395",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/YOUMONSTER.gif?updatedAt=1773394087259",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/8573.9483.593.gif?updatedAt=1773394106342",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/bageltrip.gif?updatedAt=1747862000337",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/eatme.gif?updatedAt=1773394130574",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/EchoStep-GUMBAER.gif?updatedAt=1773394148348",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/UNDEF-GUMBAER-2.gif?updatedAt=1773394202999",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/UNDEF-GUMBAER-3.gif?updatedAt=1773394217394",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/THEHOLYLEGENDARYMYTHICALGRAILSHLICIOUSRAINBOWBUISCUITBAER.gif?updatedAt=1773393628764",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/hellen-robot-assistant.gif?updatedAt=1773394187535",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/BORDIE-k16.gif?updatedAt=1773394166185",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/potato-chip.gif?updatedAt=1747861978643",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/the-wise-leaf-of-wealth-prosperity-understanding-and-wisdom.gif?updatedAt=1773393352785",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/JOCKBOX.gif?updatedAt=1773393577166",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/BOO.gif?updatedAt=1773394232186",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/DAHYPERFIASH.gif?updatedAt=1773393240279",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/console.log(_*asserts-dominance*_).gif?updatedAt=1773394288284",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/wellwellwellwellwellwellwellwellwell.gif?updatedAt=1773394306252",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/BAHBY.gif?updatedAt=1773394319062",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/NADOTOR.gif?updatedAt=1773394336175",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/UNIVERSE-DESTROYER.gif?updatedAt=1773394359989",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/SOUL-VAPORIZER.gif?updatedAt=1773395091126",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/AMALGMATION-OF-COSMOS.gif?updatedAt=1773394403899",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/digger.gif?updatedAt=1773393210470",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/TASTYPEEYUM.gif?updatedAt=1773394422235",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/doesthisevenneedaname_smh.gif?updatedAt=1773394473051",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/cornball.gif?updatedAt=1747861963262",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/WHEREHAVEISEENTHISHMMM.gif?updatedAt=1773394511581",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/DIVINE-WRATH.gif?updatedAt=1773395819899",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/NUHUH.gif?updatedAt=1773394525511",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/atomtastic.gif?updatedAt=1773393442202",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/KITCHNISASICTRIUMPH.gif?updatedAt=1773394553753",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/hatewhenthishappens.gif?updatedAt=1773394569253",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/beber-chupa.gif?updatedAt=1747656882909",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/enbabyfazball.gif?updatedAt=1773394587381",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/poor-napoleon.gif?updatedAt=1747656482099",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/iscreamyouscream.gif?updatedAt=1773394628035",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/heswatching.gif?updatedAt=1773394607837",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/poop.gif?updatedAt=1747656481586",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/pause.gif?updatedAt=1773393399781",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/peperami.gif?updatedAt=1747656481137",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/no.gif?updatedAt=1773394641273",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/youstupidmibber.gif?updatedAt=1773394682855",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/mibombo.gif?updatedAt=1773394663382",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/hihellobyefarewellseeyacyagoodbyelatergreetingsgif?updatedAt=1773394713333",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/loadcat.gif?updatedAt=1747656477255",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/cornhub.gif?updatedAt=1773394733188",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/drawonmeyessdaddy.gif?updatedAt=1773394751790",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/keytomisery.gif?updatedAt=1773394764337",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/counter-ratio.gif?updatedAt=1747656475012",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/what'reyouwowingfor-chud_.gif?updatedAt=1773394783388",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/that-feeling-when-lung-surgery-is-tomorrow.gif?updatedAt=1773394819535",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/keyANDlocktomisery.gif?updatedAt=1773394833635",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/freakyahh.gif?updatedAt=1773394847521",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/fax.gif?updatedAt=1773394875256",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/BHOO.gif?updatedAt=1773394861835",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/kinky-kinky-little-star.gif?updatedAt=1773394905535",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/yoyo.gif?updatedAt=1747656466712",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/K%CC%88AT!.gif?updatedAt=1773393745831",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/potato-charm.gif?updatedAt=1747571919079",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/aroundthedumbfounded.gif?updatedAt=1773394943862",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/universal-donut-charm.gif?updatedAt=1747571902365",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/cosmic-donut-charm.gif?updatedAt=1747571902329",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/around-the-sans.gif?updatedAt=1773393300684",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/round-plankton.gif?updatedAt=1747571900833",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/sans-bad-time.gif?updatedAt=1747571899090",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/mxverstppen.gif?updatedAt=1745896802324",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/gulp.gif?updatedAt=1773394967950",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/CANFACTORY.gif?updatedAt=1773394996587",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/TROILET.gif?updatedAt=1773394983330",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/CHEESE.gif?updatedAt=1773395009182",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/kiwi-chan.gif?updatedAt=1773395028592",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/huh.gif?updatedAt=1773395053074",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/SEVERER-OF-CONNECTIONS.gif?updatedAt=1773395071534",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/IDROID.gif?updatedAt=1773395111476",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/ShellEazy.gif?updatedAt=1773395133180",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Blue-Faberge-Egg.gif?updatedAt=1773395153489",
-"https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/welon.gif?updatedAt=1745532306712"
-  ]
-}
+  "gifCycler": {
+    "items": [
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Diarmoure.gif?updatedAt=1775521016636",
+        "tooltip": "Diare Situations"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Obsl.gif?updatedAt=1775521008306",
+        "tooltip": "Obsl In Action"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Eilinier.gif?updatedAt=1775521014892",
+        "tooltip": "Shiny Whiny Eilinier"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Saphie.gif?updatedAt=1775521016500",
+        "tooltip": "Saphie Says Hi"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Amnire.gif?updatedAt=1775521024456",
+        "tooltip": "Amnire Doing Things"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Schneemann.gif",
+        "tooltip": "Thank You Thank You Thank You"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/8ball.gif",
+        "tooltip": "Signs Point To AUTISM"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/AstroFuck.gif",
+        "tooltip": "Houston, We Have A Problem"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Bluien.gif",
+        "tooltip": "Bluien!"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/CarniftDaCarinicious.gif",
+        "tooltip": "CARR CARRR CARRRRRR!!!"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Counta.gif",
+        "tooltip": "Let Me Count It Down For You..."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/eduwin.gif",
+        "tooltip": "Drop Out Much?"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/him.gif",
+        "tooltip": "It's Literally Him."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/housiez.gif",
+        "tooltip": "EY' YOU COME BACK HERE NOW."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Juggler.gif",
+        "tooltip": "Juggling Life Responsibilities"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/webamp.gif",
+        "tooltip": "It Really Whips The Llama's Ass"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/whitespace-up7.gif",
+        "tooltip": "Going Up!"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/THEONEANDONLYWEIRDCLOCK.gif?updatedAt=1774384066974",
+        "tooltip": "THE ONE AND ONLY"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/OkiePokeVibe.gif",
+        "tooltip": "Okie Poke Vibes"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/grass.gif?updatedAt=1769521245846",
+        "tooltip": "Go Touch Some."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/PBJT-BANANA.gif?updatedAt=1773393143141",
+        "tooltip": "ITZ PEANUT BUTTER JELLY TIME"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Cool-Screenie-Thingy.gif?updatedAt=1773393553650",
+        "tooltip": "A Cool Screenie Thingy"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Example-1.gif?updatedAt=1768822007880",
+        "tooltip": "Example 1"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Example-2.gif?updatedAt=1768822151517",
+        "tooltip": "Example 2"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Example-3.gif?updatedAt=1768822176121",
+        "tooltip": "Example 3"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/expected-da-unexpected-jar.gif?updatedAt=1773393526607",
+        "tooltip": "Did You Expect The Unexpected?"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/SKEL.gif?updatedAt=1773393849005",
+        "tooltip": "Spooky Scary Skettles"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Triapoiez-Person.gif?updatedAt=1773393490967",
+        "tooltip": "This Is A Triapoiez Person"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/UNDEF-GUMBAER-4.gif?updatedAt=1773395525845",
+        "tooltip": "Gumbaer 4"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/WOAHAGOLDENIDO-GYATDAMNNVM.gif?updatedAt=1773393893997",
+        "tooltip": "WOAH A GOLDEN... GYATTTTTTTT"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/pixelated-blugenerated-mELOn-chan.gif?updatedAt=1773393947870",
+        "tooltip": "Mel-Chan!"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/fischzza.gif?updatedAt=1773393981611",
+        "tooltip": "One Fischzza Please"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/ShardOfGrapesidian.gif?updatedAt=1773395593285",
+        "tooltip": "Shard of Grapesidian"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/adolphhi-.gif?updatedAt=1773393997346",
+        "tooltip": "Uhhhhh..."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/UNDEF-GUMBAER-1.gif?updatedAt=1773394050058",
+        "tooltip": "Gumbaer 5"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/NoThing-GUMBAER.gif?updatedAt=1773394068027",
+        "tooltip": "GumBaer 2"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/bored.gif?updatedAt=1747862011395",
+        "tooltip": "Same Tbh."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/YOUMONSTER.gif?updatedAt=1773394087259",
+        "tooltip": "YOU MONSTER!"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/8573.9483.593.gif?updatedAt=1773394106342",
+        "tooltip": "Error: Numbers Not Found"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/bageltrip.gif?updatedAt=1747862000337",
+        "tooltip": "Trippin' On Carbs"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/eatme.gif?updatedAt=1773394130574",
+        "tooltip": "Nom nom nom"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/EchoStep-GUMBAER.gif?updatedAt=1773394148348",
+        "tooltip": "Gumbaer 1"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/UNDEF-GUMBAER-2.gif?updatedAt=1773394202999",
+        "tooltip": "Gumbaer 2"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/UNDEF-GUMBAER-3.gif?updatedAt=1773394217394",
+        "tooltip": "Gumbaer 3"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/THEHOLYLEGENDARYMYTHICALGRAILSHLICIOUSRAINBOWBUISCUITBAER.gif?updatedAt=1773393628764",
+        "tooltip": "AHH ITS SO MAJESTIC I CAN'T!!! DLCRSJIPCQILNEPIQWDLGMEJQVYSPQRPGMMMEWPKMLLSULYGCGSSXZKIP"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/hellen-robot-assistant.gif?updatedAt=1773394187535",
+        "tooltip": "Hellen At Your Service"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/BORDIE-k16.gif?updatedAt=1773394166185",
+        "tooltip": "BORDIE"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/potato-chip.gif?updatedAt=1747861978643",
+        "tooltip": "Just One Bite... It Is Sentient."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/the-wise-leaf-of-wealth-prosperity-understanding-and-wisdom.gif?updatedAt=1773393352785",
+        "tooltip": "Its So Wise... It Knows All... It Understands All..."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/JOCKBOX.gif?updatedAt=1773393577166",
+        "tooltip": "JOCKBOX"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/BOO.gif?updatedAt=1773394232186",
+        "tooltip": "Did I Scare You? BOO-2"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/DAHYPERFIASH.gif?updatedAt=1773393240279",
+        "tooltip": "⻥⻥⻥⻥◉◉◉◉ HYPER FIASH MEANTIONED!!?!?!?!?! ◉◉◉◉⿂⿂⿂⿂⿂⻥⻥⻥⻥"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/console.log(_*asserts-dominance*_).gif?updatedAt=1773394288284",
+        "tooltip": "console.log('dominance asserted')"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/wellwellwellwellwellwellwellwellwell.gif?updatedAt=1773394306252",
+        "tooltip": "Well, Well, Well..."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/BAHBY.gif?updatedAt=1773394319062",
+        "tooltip": "BAHBY"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/NADOTOR.gif?updatedAt=1773394336175",
+        "tooltip": "You'd Do Best Do Not To Underestimate Nadotor."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/UNIVERSE-DESTROYER.gif?updatedAt=1773394359989",
+        "tooltip": "Destroying The Universe, Pls Hold."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/SOUL-VAPORIZER.gif?updatedAt=1773395091126",
+        "tooltip": "Vaporizing Souls..."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/AMALGMATION-OF-COSMOS.gif?updatedAt=1773394403899",
+        "tooltip": "The Cosmos Itself."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/digger.gif?updatedAt=1773393210470",
+        "tooltip": "You Little Digger!"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/TASTYPEEYUM.gif?updatedAt=1773394422235",
+        "tooltip": "Tasty? Yum."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/doesthisevenneedaname_smh.gif?updatedAt=1773394473051",
+        "tooltip": "Does This Even Need A Tooltip? Smh."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/cornball.gif?updatedAt=1747861963262",
+        "tooltip": "What A Cornball."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/WHEREHAVEISEENTHISHMMM.gif?updatedAt=1773394511581",
+        "tooltip": "Hmm, Looks Familiar..."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/DIVINE-WRATH.gif?updatedAt=1773395819899",
+        "tooltip": "YOU HAVE INCURED THE WRATH OF A THOUSAND SUNS"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/NUHUH.gif?updatedAt=1773394525511",
+        "tooltip": "How I Felt After Saying That:"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/atomtastic.gif?updatedAt=1773393442202",
+        "tooltip": "*Gets Erased Cutely*"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/KITCHNISASICTRIUMPH.gif?updatedAt=1773394553753",
+        "tooltip": "A Triumph Of The Kitchen"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/hatewhenthishappens.gif?updatedAt=1773394569253",
+        "tooltip": "I Hate When This Happens..."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/beber-chupa.gif?updatedAt=1747656882909",
+        "tooltip": "Beber Chupa"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/enbabyfazball.gif?updatedAt=1773394587381",
+        "tooltip": "Enbaby Fazball"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/poor-napoleon.gif?updatedAt=1747656482099",
+        "tooltip": "L + Ratio + Napolean + Didn't Ask + Bad History + Bad Art + Counter Ratio + 0% Effort + Just Bad + Unfunny + Not Funny + LAME + Cornball + Cringe + WEEB + Weeaboo + Weeboo + Bad Meme + Try Hard + Edgelord + Cringelord + Sadge + Soggy Napolean"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/iscreamyouscream.gif?updatedAt=1773394628035",
+        "tooltip": "We All Scream!"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/heswatching.gif?updatedAt=1773394607837",
+        "tooltip": "Open Your Closet."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/poop.gif?updatedAt=1747656481586",
+        "tooltip": "It's Not His Fault That's His Name, Okay? Don't Be Mean To Poop."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/pause.gif?updatedAt=1773393399781",
+        "tooltip": "PAUSE."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/peperami.gif?updatedAt=1747656481137",
+        "tooltip": "GAHHHAHAHAHA Peperami"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/no.gif?updatedAt=1773394641273",
+        "tooltip": "Just NO."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/youstupidmibber.gif?updatedAt=1773394682855",
+        "tooltip": "You Stupid Mibber"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/mibombo.gif?updatedAt=1773394663382",
+        "tooltip": "Mibombo"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/hihellobyefarewellseeyacyagoodbyelatergreetingsgif?updatedAt=1773394713333",
+        "tooltip": "Hello... Goodbye."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/loadcat.gif?updatedAt=1747656477255",
+        "tooltip": "Loading Cat..."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/cornhub.gif?updatedAt=1773394733188",
+        "tooltip": "It's Just corn. Get Your Mind Out Of The Gutter."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/drawonmeyessdaddy.gif?updatedAt=1773394751790",
+        "tooltip": "Ayo?"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/keytomisery.gif?updatedAt=1773394764337",
+        "tooltip": "Where Door To Misery?"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/counter-ratio.gif?updatedAt=1747656475012",
+        "tooltip": "Counter Ratio'd"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/what'reyouwowingfor-chud_.gif?updatedAt=1773394783388",
+        "tooltip": "What Are You Wowing For, Chud?"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/that-feeling-when-lung-surgery-is-tomorrow.gif?updatedAt=1773394819535",
+        "tooltip": "That Feeling When Lung Surgery Is Tomorrow"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/keyANDlocktomisery.gif?updatedAt=1773394833635",
+        "tooltip": "WHERE'S THE DOOR TO MISERY NOW, HUH?"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/freakyahh.gif?updatedAt=1773394847521",
+        "tooltip": "Freaky Ahh"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/fax.gif?updatedAt=1773394875256",
+        "tooltip": "Straight Fax No Printer"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/BHOO.gif?updatedAt=1773394861835",
+        "tooltip": "BHOO!"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/kinky-kinky-little-star.gif?updatedAt=1773394905535",
+        "tooltip": "Kinky Kinky Little Star... How I Not Wonder What You Are."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/yoyo.gif?updatedAt=1747656466712",
+        "tooltip": "Hey Check Out This Kool Trick."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/K%CC%88AT!.gif?updatedAt=1773393745831",
+        "tooltip": "K̈AT!"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/potato-charm.gif?updatedAt=1747571919079",
+        "tooltip": "A Charming Potato"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/aroundthedumbfounded.gif?updatedAt=1773394943862",
+        "tooltip": "Around The Dumbfounded"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/universal-donut-charm.gif?updatedAt=1747571902365",
+        "tooltip": "Eat This And You'll Be In The Universal Donut Club! (UDB)!!!"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/cosmic-donut-charm.gif?updatedAt=1747571902329",
+        "tooltip": "Eat This And You'll Feel Like Shit."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/around-the-sans.gif?updatedAt=1773393300684",
+        "tooltip": "Do You Wanna Have A Sphere Time?"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/round-plankton.gif?updatedAt=1747571900833",
+        "tooltip": "OAHHHAHHAAAAAAANNNNN~MMSNNNNNH~SSSSSH~"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/sans-bad-time.gif?updatedAt=1747571899090",
+        "tooltip": "You're Gonna HaveAa Bad Time."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/mxverstppen.gif?updatedAt=1745896802324",
+        "tooltip": "HES REACHING"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/gulp.gif?updatedAt=1773394967950",
+        "tooltip": "*Gulp*"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/CANFACTORY.gif?updatedAt=1773394996587",
+        "tooltip": "The Can Factory?"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/TROILET.gif?updatedAt=1773394983330",
+        "tooltip": "No. We're NOT Doing This Joke In The Big (Insert Year Here)"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/CHEESE.gif?updatedAt=1773395009182",
+        "tooltip": "Say CHEESE!"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/kiwi-chan.gif?updatedAt=1773395028592",
+        "tooltip": "Kiwi-chan!"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/huh.gif?updatedAt=1773395053074",
+        "tooltip": "Huh?!"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/SEVERER-OF-CONNECTIONS.gif?updatedAt=1773395071534",
+        "tooltip": "Severer Of Connections"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/IDROID.gif?updatedAt=1773395111476",
+        "tooltip": "IDroid Activated."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/ShellEazy.gif?updatedAt=1773395133180",
+        "tooltip": "Iz Shell Eazy? Shelt Easy? Shell Eazy? Ez Shehl? Shell Eazy."
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/Blue-Faberge-Egg.gif?updatedAt=1773395153489",
+        "tooltip": "A Priceless Blue Faberge Egg"
+      },
+      {
+        "url": "https://ik.imagekit.io/9llyyueko/ANIMATED%20IMAGES/welon.gif?updatedAt=1745532306712",
+        "tooltip": "Welon"
+      }
+    ]
+  }
 }
